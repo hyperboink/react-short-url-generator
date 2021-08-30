@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-short-url-generator/static/css/main.2cf824cf.chunk.css",
+    "main.css": "/react-short-url-generator/static/css/main.f1e5ed34.chunk.css",
     "main.js": "/react-short-url-generator/static/js/main.46ed2ffa.chunk.js",
     "main.js.map": "/react-short-url-generator/static/js/main.46ed2ffa.chunk.js.map",
     "runtime-main.js": "/react-short-url-generator/static/js/runtime-main.cc88f416.js",
@@ -10,13 +10,13 @@
     "static/js/3.dfd736ac.chunk.js": "/react-short-url-generator/static/js/3.dfd736ac.chunk.js",
     "static/js/3.dfd736ac.chunk.js.map": "/react-short-url-generator/static/js/3.dfd736ac.chunk.js.map",
     "index.html": "/react-short-url-generator/index.html",
-    "static/css/main.2cf824cf.chunk.css.map": "/react-short-url-generator/static/css/main.2cf824cf.chunk.css.map",
+    "static/css/main.f1e5ed34.chunk.css.map": "/react-short-url-generator/static/css/main.f1e5ed34.chunk.css.map",
     "static/js/2.72941bec.chunk.js.LICENSE.txt": "/react-short-url-generator/static/js/2.72941bec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cc88f416.js",
     "static/js/2.72941bec.chunk.js",
-    "static/css/main.2cf824cf.chunk.css",
+    "static/css/main.f1e5ed34.chunk.css",
     "static/js/main.46ed2ffa.chunk.js"
   ]
 }
